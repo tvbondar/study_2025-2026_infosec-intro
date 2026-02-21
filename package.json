@@ -1,0 +1,26 @@
+{
+  "name": "study_2025-2026_infosec-intro",
+  "version": "1.0.1",
+  "description": "## Clone repository",
+  "main": ".cz-config.js",
+  "scripts": {
+    "release": "standard-version",
+    "release:minor": "standard-version --release-as minor",
+    "release:major": "standard-version --release-as major",
+    "release:first": "standard-version --first-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tvbondar/study_2025-2026_infosec-intro.git"
+  },
+  "keywords": [],
+  "author": "tvbondar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tvbondar/study_2025-2026_infosec-intro/issues"
+  },
+  "homepage": "https://github.com/tvbondar/study_2025-2026_infosec-intro#readme",
+  "devDependencies": {
+    "standard-version": "^9.5.0"
+  }
+}

@@ -17,6 +17,7 @@ format:
   ### Pdf output format
   beamer:
     pdf-engine: xelatex
+    mainfont: "Linux Libertine O"
     toc: true
     toc-title: Содержание
     number-sections: true
